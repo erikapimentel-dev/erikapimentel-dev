@@ -19,7 +19,14 @@
 
 👊 Pronouns: Ela/Dela
 
-🤣 Fun fact: meus alunos me chamavam de **tia Érika** — e o apelido virou marca! 💜
+---
+
+### 🚀 Projetos em destaque
+
+- 🧠 **[Motor de decisão de crédito (demo)](#)** — API em Python/FastAPI simulando regras de decisão, com testes e Docker. _(a criar)_
+- 📊 **[Projeto Big Data](https://github.com/erikapimentel-dev/Projeto_Bigdata)** — processamento e análise de dados em escala.
+- 🤖 **[Projeto Machine Learning](https://github.com/erikapimentel-dev/Projeto_MachineLearning)** — pipeline de ML aplicado.
+- ⚙️ **[professorRank](https://github.com/erikapimentel-dev/professorRank)** — automatização de processo em Python.
 
 ---
 
@@ -46,14 +53,19 @@
 - 🎓 **Tecnóloga em Análise e Desenvolvimento de Sistemas** — Estácio
 - 🖥️ **Residência em TIC FullStack** — UECE | Capacita Brasil
 - 📚 Bootcamps: Reprograma, ADA Tech e DIO
-- ⏳ +2000 horas de estudo entre cursos e bootcamps
 
 ---
 
 ### 📊 GitHub Stats
 
-![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikapimentel-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikapimentel-dev&layout=compact&theme=radical)
+![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikapimentel-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikapimentel-dev&layout=compact&theme=tokyonight)
+
+---
+
+### 💜 Fun fact
+
+Meus alunos me chamavam de **tia Érika** — e o apelido virou marca!
 
 ---
 
