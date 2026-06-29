@@ -1,51 +1,61 @@
-## Oiii eu sou a Érika Mayara Pimentel!
+<h1 align="center">Oiii, eu sou a Érika! 👋</h1>
+<h3 align="center">Back-end Engineer | Python • SQL • AWS • GCP/BigQuery | ML & Data Pipelines em Produção</h3>
 
-- 🚀 Atualmente em transição de carreira da Educação para a área da Tecnologia
-- 💎 MBA em Ciências de Dados. [MBA FAMESP/FLAI - Data Science]
-- 📖 Tenho mais de 2000 horas de estudos entre cursos e bootcamps
-- 🎓 Estudando Análise e Desenvolvimento de Sistemas. [Estácio - ADS - Tecnólogo]
-- 👩‍💻  Estagiária no Grupo OLX [Engenharia de Dados / Engenharia de Software]
-- 💬 Experiência em Python e SQL
-- 📫 Contate-me no email: erikamayarapimentel@gmail.com
-- 👊 Pronouns: Ela/dela
-- 🤣 Fun fact: Meus alunos me chamam de tia Érika
+---
 
-<div align="center">
-  <a href="https://github.com/TiaErikaDev">
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
-  <img align="center" alt="Rafa-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-VsCode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Rafa-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-intellij" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg">
-  <img align="center" alt="Rafa-pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg">
-  <img align="center" alt="Rafa-numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Rafa-kaggle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg">
-  <img align="center" alt="Rafa-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original-wordmark.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg">
-             
-</div>
-  
-  ##
- 
-<div> 
-  <a href="https://instagram.com/erika_pimentel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:erikamayarapimentel@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiaerikadev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikapimentel-dev&hide=contribs,reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
- 
-</div>
+### 👩‍💻 Sobre mim
+
+🐍 **Back-end Engineer** no **Banco BV**, atuando na fronteira entre engenharia, dados e crédito.
+
+⚙️ Implemento e mantenho políticas de crédito em Python em **motores de decisão de alto volume ~5k requisições/min**.
+
+📊 Construo e mantenho **pipelines de dados** e **modelos de Machine Learning em produção**, com foco em integridade, escalabilidade e governança.
+
+🌱 Antes da tecnologia, fui **professora de Biologia** — trago a paciência de entender problemas complexos antes de resolver e a curiosidade de saber como as coisas funcionam por dentro: antes em células, hoje em sistemas distribuídos.
+
+💬 Pergunte-me sobre: **Python, SQL, AWS, Docker, CI/CD, microsserviços e ML em produção.**
+
+👊 Pronouns: Ela/Dela
+
+🤣 Fun fact: meus alunos me chamavam de **tia Érika** — e o apelido virou marca! 💜
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GCP](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🎓 Formação
+
+- 💎 **MBA em Data Science** — FAMESP/FLAI
+- 🎓 **Tecnóloga em Análise e Desenvolvimento de Sistemas** — Estácio
+- 🖥️ **Residência em TIC FullStack** — UECE | Capacita Brasil
+- 📚 Bootcamps: Reprograma, ADA Tech e DIO
+- ⏳ +2000 horas de estudo entre cursos e bootcamps
+
+---
+
+### 📊 GitHub Stats
+
+![Erika's GitHub stats](https://github-readme-stats.vercel.app/api?username=erikapimentel-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikapimentel-dev&layout=compact&theme=radical)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erikapimentel-dev/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:erikamayarapimentel@gmail.com)
