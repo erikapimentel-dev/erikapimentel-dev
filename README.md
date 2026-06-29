@@ -15,6 +15,8 @@
 
 💬 Pergunte-me sobre: **Python, SQL, AWS, Docker, CI/CD, microsserviços e ML em produção.**
 
+📍 Fortaleza, CE — Brasil
+
 👊 Pronouns: Ela/Dela
 
 🤣 Fun fact: meus alunos me chamavam de **tia Érika** — e o apelido virou marca! 💜
